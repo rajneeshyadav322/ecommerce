@@ -3,12 +3,6 @@
 
 ## Demo: https://devat-ecommerce.herokuapp.com/
 
-## Author: Dev AT
-## Youtube tutorials: https://youtu.be/AjItjNc0bHA
-
-## Install dependencies for server 
-### `npm install`
-
 ## Install dependencies for client
 ### cd client ---> `npm install`
 
